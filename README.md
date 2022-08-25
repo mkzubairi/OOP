@@ -13,3 +13,6 @@ Lets suppose we have a class A, and a class B. we want to use a method in B whic
 overriding means that if we use declare property or method in different classes. suppose A class have a property name and B class also have name propert as A. so when we create an object of B and use name property whith that object then name propert of B class will be accessed. Same like property we can override methods. 
 ## Polymorphism
 defined as Same operation may behaive differently in differrent class. There are two ways to implement polymorphism, 1. Abstract class and 2. Interface.
+## Attributes and Behaviours
+Attributes represent the properties  of a class like we have a class A and A has property or attribute as name, age etc. SO, these properties of A are said to be attribites of class A.
+Behaviours are said to be the use of attributes of a class. For example there is a function which prints name and age of class A. So this function performs action on the properties of class A. So this  function is defining the behaviour of name and age.
