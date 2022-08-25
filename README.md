@@ -6,4 +6,7 @@ we us "Interface" keyword to create an interface.
 in Interface thre can only be the prototypes or declerations of the methods, we have to define the methods in the drived class.
 We can not create object of an interface like a class.
 We can use access modifier with the methods declare in an interface.
+## Inheritance
+Inheritance is a term where a sub class is inherit to a base class or parent class to use its properties or methods.
+Lets suppose we have a class A, and a class B. we want to use a method in B which is present in A. So, we will inherit B to A. If we inherit B to A with public access modifier then all public properties or method of A will be publically accessable by B. If we use Private the all public methods of A will be private properties of B.
 
