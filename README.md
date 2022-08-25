@@ -9,4 +9,6 @@ We can use access modifier with the methods declare in an interface.
 ## Inheritance
 Inheritance is a term where a sub class is inherit to a base class or parent class to use its properties or methods.
 Lets suppose we have a class A, and a class B. we want to use a method in B which is present in A. So, we will inherit B to A. If we inherit B to A with public access modifier then all public properties or method of A will be publically accessable by B. If we use Private the all public methods of A will be private properties of B.
+## Overriding
+overriding means that if we use declare property or method in different classes. suppose A class have a property name and B class also have name propert as A. so when we create an object of B and use name property whith that object then name propert of B class will be accessed. Same like property we can override methods. 
 
