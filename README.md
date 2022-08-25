@@ -16,3 +16,5 @@ defined as Same operation may behaive differently in differrent class. There are
 ## Attributes and Behaviours
 Attributes represent the properties  of a class like we have a class A and A has property or attribute as name, age etc. SO, these properties of A are said to be attribites of class A.
 Behaviours are said to be the use of attributes of a class. For example there is a function which prints name and age of class A. So this function performs action on the properties of class A. So this  function is defining the behaviour of name and age.
+## Classes and Objects
+A class is set of some properties and methods which defines a prticular existance. An Object defines a single entity of a class. For example there is a Class human which have all the information that a human have and we create a object of class human as Ali. So, Ali (object) defines a single entity existance of human.
